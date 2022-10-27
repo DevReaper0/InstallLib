@@ -1,5 +1,5 @@
 # Binaries
-#bin/
+bin/
 
 # Test binary, built with `go test -c`
 *.test
@@ -14,5 +14,5 @@
 go.work
 
 # Replit files
-#.replit
-#replit.nix
+.replit
+replit.nix
