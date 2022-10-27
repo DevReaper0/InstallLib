@@ -8,8 +8,8 @@ import (
 )
 
 // TODO: Add a CLI for created installers.
-// TODO: Add support for creating MSI files. (For Windows)
-// TODO: Add support for creating .deb packges. (For Debian)
+// TODO: Maybe add support for creating MSI files. (For Windows)
+// TODO: Maybe add support for creating .deb packges. (For Debian)
 
 const (
     TitleBarMode_None int = 0
